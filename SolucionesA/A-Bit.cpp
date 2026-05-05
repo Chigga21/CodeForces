@@ -1,3 +1,6 @@
+/* Solución para el problema 282A
+    Bit++
+*/
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,3 +1,6 @@
+/* Solución para el problema 231A
+    Team
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

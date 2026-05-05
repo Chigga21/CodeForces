@@ -1,3 +1,6 @@
+/* Solución para el problema 71A
+    Way Too Long Words
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
